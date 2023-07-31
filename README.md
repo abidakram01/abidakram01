@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Abid Akram
 
 - 🔭 I’m a Front End Developer
-- 🌱 I’m proficient in JavaScript
 - 👯 I’m open to new opportunities
 
 ### Tech I know <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-student_1f468-200d-1f393.png" width="120px" height="120px"/>
