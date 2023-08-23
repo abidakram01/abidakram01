@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abid Akram and I'm a UI/UX Designer and Developer, from Bengaluru, India</h2>
+<h2 align="left">Hi 👋! My name is Abid Akram and I'm a UI/UX Designer and Developer</h2>
 
 ###
 
