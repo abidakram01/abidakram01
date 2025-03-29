@@ -16,7 +16,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,angular,typescript,jquery,bootstrap,sass,tailwind,git,npm,yarn,postman,notion,figma,xd,webflow,ai,ps,ae,pr" />
+  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,angular,typescript,jquery,bootstrap,sass,tailwind,git,npm,yarn,postman,notion,figma,xd,webflow,ai,ps" />
 </div>
 
 ###
