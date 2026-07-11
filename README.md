@@ -101,7 +101,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
   <sub>⭐ From <a href="https://github.com/abidakram01">abidakram01</a> — thanks for visiting!</sub>
 </div>
