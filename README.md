@@ -1,42 +1,108 @@
-<h2 align="left">Hi 👋! My name is Abid Akram and I'm a Frontend Engineer</h2>
+<div align="center">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abidakram01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img align="left" height="150" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  />
-  
-</div>
+<a href="https://abidakram.com" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abid+Akram;Frontend+Engineer;React+%7C+Angular+%7C+TypeScript;I+build+fast%2C+accessible+web+apps" alt="Abid Akram" />
+</a>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=abidakram01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abidakram01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=abidakram01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,html,css,js,react,angular,typescript,jquery,bootstrap,sass,tailwind,git,npm,yarn,postman,notion,figma,xd,webflow,ai,ps" />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:abid.akram01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p>
+  <a href="https://abidakram.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-abidakram.com-BD93F9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/abidakram/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:abid.akram01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://www.behance.net/abidakram01" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" height="35" alt="behance logo"  />
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="behance" />
   </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=abidakram01&label=Profile%20views&color=BD93F9&style=flat" alt="profile views" />
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+- 🚀 Frontend Engineer focused on building **fast, accessible, and scalable** web applications.
+- 🛠️ Working mainly with **React, Angular, and TypeScript**, plus modern tooling and design systems.
+- 🎨 Comfortable bridging **design and code** — from Figma/XD to production UI.
+- 🌱 Currently deepening my skills in **performance optimization** and **frontend architecture**.
+- 💬 Ask me about **JavaScript, React, CSS/Tailwind, and UI engineering**.
+- 📫 Reach me: **abid.akram01@gmail.com**
 
-###
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abidakram01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=abidakram01&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top langs" />
+
+  <br/>
+
+  <img height="165" src="https://streak-stats.demolab.com?user=abidakram01&theme=dracula&hide_border=true&border_radius=5" alt="streak" />
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app?username=abidakram01&theme=dracula&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> Pin your best repositories on your profile so they show up here. Replace the placeholders below.
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [Project One](https://github.com/abidakram01) | Short one-line description of what it does. | React · TS |
+| [Project Two](https://github.com/abidakram01) | Short one-line description of what it does. | Angular |
+| [Portfolio](https://abidakram.com) | My personal website & work showcase. | — |
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+  <sub>⭐ From <a href="https://github.com/abidakram01">abidakram01</a> — thanks for visiting!</sub>
+</div>
