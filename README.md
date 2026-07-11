@@ -74,16 +74,12 @@
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abidakram01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=abidakram01&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-abakram.vercel.app/api?username=abidakram01&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-abakram.vercel.app/api/top-langs?username=abidakram01&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="top langs" />
 
   <br/>
 
   <img height="165" src="https://streak-stats.demolab.com?user=abidakram01&theme=dracula&hide_border=true&border_radius=5" alt="streak" />
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app?username=abidakram01&theme=dracula&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies" />
 
 </div>
 
