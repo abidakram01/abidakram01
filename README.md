@@ -91,12 +91,11 @@
 
 ## 📌 Featured Projects
 
-> Pin your best repositories on your profile so they show up here. Replace the placeholders below.
-
 | Project | Description | Tech |
 | --- | --- | --- |
-| [Project One](https://github.com/abidakram01) | Short one-line description of what it does. | React · TS |
-| [Project Two](https://github.com/abidakram01) | Short one-line description of what it does. | Angular |
+| [angular-movie-app](https://github.com/abidakram01/angular-movie-app) | Discover movie & TV show trailers in a fast, responsive web app. | Angular · TypeScript |
+| [text-to-image-ai-generator-angular](https://github.com/abidakram01/text-to-image-ai-generator-angular) | AI-powered text-to-image generator with a clean, modern UI. | Angular · SCSS |
+| [ai-creative-studio](https://github.com/abidakram01/ai-creative-studio) | Creative studio experimenting with AI-assisted content generation. | TypeScript |
 | [Portfolio](https://abidakram.com) | My personal website & work showcase. | — |
 
 ---
